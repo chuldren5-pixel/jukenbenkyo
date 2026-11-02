@@ -1,4 +1,4 @@
 :HL["/jukenbenkyo/touroku/app/_next/static/chunks/0d4x7368egf4c.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"practice","h":96,"c":"$Q2"}]]
-0:{"b":"picqcyoBAywqfW_MWbjA7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"6DHt70Rg4qU_GgT4W671F","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

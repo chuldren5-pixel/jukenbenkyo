@@ -1,4 +1,4 @@
-:HL["/jukenbenkyo/touroku/app/_next/static/chunks/1_bsdm_-73icz.css","style"]
+:HL["/jukenbenkyo/touroku/app/_next/static/chunks/00_3kaw_tj5wx.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"review","h":96,"c":"$Q2"}]]
-0:{"b":"pN8RwJJoEQ8YaM-i-B9b9","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"XgiR-ATDU6HIqiBUFUbWZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
